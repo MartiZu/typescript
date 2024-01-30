@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "sku": "item001",
+            "name": "Widget",
+            "price": 10.00
+        },
+        {
+            "sku": "item002",
+            "name": "Gadget",
+            "price": 20.00
+        },
+        {
+            "sku": "item003",
+            "name": "Gizmo",
+            "price": 30.00
+        }
+    ]
+}
